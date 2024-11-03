@@ -165,13 +165,13 @@ section {
 
 .bg-image {
   /* photo from: https://www.pexels.com/photo/dawn-landscape-mountains-nature-1852/ */
-  background-image: url(/res/background.jpg);
+  background-image: url(/res/stockbg.png);
   background-attachment: scroll;
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
   background-color: transparent;
-  opacity: .69;
+  opacity: .3;
 }
 
 h1 {
